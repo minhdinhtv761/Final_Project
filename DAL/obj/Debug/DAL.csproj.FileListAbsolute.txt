@@ -1,0 +1,17 @@
+D:\Minh Đinh\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Minh Đinh\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\Minh Đinh\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Minh Đinh\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Minh Đinh\DAL\bin\Debug\DAL.exe.config
+D:\Minh Đinh\DAL\bin\Debug\DAL.exe
+D:\Minh Đinh\DAL\bin\Debug\DAL.pdb
+D:\Minh Đinh\DAL\bin\Debug\BCrypt.Net.dll
+D:\Minh Đinh\DAL\bin\Debug\EntityFramework.dll
+D:\Minh Đinh\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Minh Đinh\DAL\bin\Debug\BCrypt.Net.pdb
+D:\Minh Đinh\DAL\bin\Debug\BCrypt.Net.xml
+D:\Minh Đinh\DAL\bin\Debug\EntityFramework.xml
+D:\Minh Đinh\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Minh Đinh\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Minh Đinh\DAL\obj\Debug\DAL.exe
+D:\Minh Đinh\DAL\obj\Debug\DAL.pdb

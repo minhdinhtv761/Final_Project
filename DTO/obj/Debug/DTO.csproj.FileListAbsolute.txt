@@ -1,0 +1,3 @@
+D:\Minh Đinh\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\Minh Đinh\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\Minh Đinh\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
